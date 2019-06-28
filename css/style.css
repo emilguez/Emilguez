@@ -1,0 +1,30 @@
+body {font-family: Montserrat, Helvetica Neue, sans-serif; margin: 0 auto; line-height: 2em; padding: 12px; box-sizing: border-box; color: #333; overflow: auto;
+background: #272530;}
+
+body, html {height: 100%;}
+
+.wrapper {box-sizing: border-box; height: 100%; overflow: auto; }
+
+
+a {text-decoration: none; color: white; border-bottom: 3px solid #CE0E36;}
+a:hover {color: #CE0E36}
+p {color: white; font-weight: 200; font-size: 20px;}
+
+.name {font-family: Montserrat; font-size: 35px; text-transform: uppercase; font-weight: 900; padding: 12px; border: 4px solid #CE0E36; color: #CE0E36; display: inline-block; position: absolute; margin-bottom: 60px; top: 60px; left: 90px;}
+
+.container {margin: 0 auto; width: 700px; padding: 120px 12px 50px; overflow: auto;}
+article {padding: 60px;}
+
+hr {border-bottom: 3px solid #1B386A;}
+
+.meta {text-transform: uppercase; font-family: Arial, Courier New, Source Sans Pro, sans-serif; font-size: 12px; letter-spacing: .15em;}
+.meta a:hover {color: #CE0E36;}
+
+.inline-list {list-style: none; margin: 0; padding: 0;}
+.inline-list li {display: inline-block;}
+
+footer .inline-list li {margin-right: 40px;}
+footer a {border: none; color: white;}
+footer {margin: 0 auto; position: absolute; bottom: 55%; right: -255px; padding: 40px 0 0 0; width: 600px; -webkit-transform: rotate(-90deg);}
+
+
